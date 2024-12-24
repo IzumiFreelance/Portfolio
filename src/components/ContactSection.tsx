@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Mail, Github, Linkedin, Twitter, Instagram } from 'lucide-react';
+import { Mail, Github, Linkedin, Twitter, Instagram, Globe } from 'lucide-react';
 
 export function ContactSection() {
   return (
@@ -23,8 +23,8 @@ export function ContactSection() {
               { icon: <Github className="w-10 h-10" />, href: 'https://github.com/IzumiFreelance' },
               { icon: <Linkedin className="w-10 h-10" />, href: 'https://www.linkedin.com/in/altaf-hussian-282ba9218/' },
               { icon: <Instagram className="w-10 h-10" />, href: 'https://instagram.com/Altaf_Hussain_3' },
-              // { icon: <Globe className="w-10 h-10" />, href: 'https://3dresume.vercel.app/' },
-
+              { icon: <Globe className="w-10 h-10" />, href: 'https://3dresume.vercel.app/' },
+              
             ].map((social, index) => (
               <motion.a
                 key={index}
@@ -42,3 +42,5 @@ export function ContactSection() {
     </section>
   );
 }
+
+
