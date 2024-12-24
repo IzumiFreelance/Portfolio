@@ -23,6 +23,8 @@ export function ContactSection() {
               { icon: <Github className="w-10 h-10" />, href: 'https://github.com/IzumiFreelance' },
               { icon: <Linkedin className="w-10 h-10" />, href: 'https://www.linkedin.com/in/altaf-hussian-282ba9218/' },
               { icon: <Instagram className="w-10 h-10" />, href: 'https://instagram.com/Altaf_Hussain_3' },
+              { icon: <Globe className="w-10 h-10" />, href: 'https://3dresume.vercel.app/' },
+
             ].map((social, index) => (
               <motion.a
                 key={index}
