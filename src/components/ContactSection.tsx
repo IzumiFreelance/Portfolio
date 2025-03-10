@@ -21,7 +21,7 @@ export function ContactSection() {
             {[
               { icon: <Mail className="w-10 h-10" />, href: 'mailto:your.izumiFreelance.com' },
               { icon: <Github className="w-10 h-10" />, href: 'https://github.com/IzumiFreelance' },
-              { icon: <Linkedin className="w-10 h-10" />, href: 'https://www.linkedin.com/in/altaf-hussian-282ba9218/' },
+              { icon: <Linkedin className="w-10 h-10" />, href: 'www.linkedin.com/in/altaf-hussain-282ba9218' },
               { icon: <Instagram className="w-10 h-10" />, href: 'https://instagram.com/tdeghgg' },
               { icon: <Globe className="w-10 h-10" />, href: 'https://3dresume.vercel.app/' },
               
