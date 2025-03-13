@@ -66,13 +66,6 @@ const projects = [
     github: 'https://github.com/IzumiFreelance/Animations-website',
     live: 'https://animations-website.vercel.app/',
   },
-  {
-    title: 'Simple React page',
-    description: 'Simple react page ',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2pJuB4Gbd5wwMaxP-Wb9LKkhNoccbQhS0A&s',
-    github: 'https://github.com/IzumiFreelance/simple-react-page',
-    live: 'https://simple-react-page-kappa.vercel.app/',
-  },
 ];
 
 export function ProjectsSection() {
