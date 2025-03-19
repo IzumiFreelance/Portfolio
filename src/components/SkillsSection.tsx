@@ -38,6 +38,12 @@ const skills = [
     icon: Palette,
     technologies: ['Webpack', 'Lighthouse', 'PWA', 'Code Splitting', 'Caching'],
   },
+  {
+    title: 'WebFlow',
+    description: 'Optimizing and creating no-code Websites ',
+    icon: snowflake,
+    technologies: ['WebFlow', 'Framer', 'Animations', 'Optimizing', ],
+  },
 ];
 
 export function SkillsSection() {
