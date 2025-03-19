@@ -41,7 +41,7 @@ const skills = [
   {
     title: 'WebFlow',
     description: 'Optimizing and creating no-code Websites ',
-    icon: snowflake,
+    icon: Palette,
     technologies: ['WebFlow', 'Framer', 'Animations', 'Optimizing', ],
   },
 ];
