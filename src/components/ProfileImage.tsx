@@ -23,7 +23,7 @@ export function ProfileImage() {
         
         {/* Profile image */}
         <img
-          src="https://media.licdn.com/dms/image/v2/D4D03AQGK8m3Q8S5MUg/profile-displayphoto-shrink_400_400/B4DZVo8tJ9GkAg-/0/1741222508933?e=1746662400&v=beta&t=KmSpAsMsWIs-Q885LaT2Q5JNBKhL0rqGJv3kACKNjSU"
+          src="https://media.licdn.com/dms/image/v2/D4D03AQGK8m3Q8S5MUg/profile-displayphoto-shrink_400_400/B4DZVo8tJ9GkAg-/0/1741222508933?e=2147483647&v=beta&t=S8zsT2Ck6xM9v1yytGUqf3ybOMp2murnf35FRGo4KYg"
           alt="Profile"
           className="w-56 h-56 rounded-full border-2 border-purple-400/50 shadow-2xl relative z-10 transition-all duration-300 group-hover:scale-105 object-cover"
         />
