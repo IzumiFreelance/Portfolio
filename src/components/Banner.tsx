@@ -42,7 +42,7 @@ export function Banner() {
             transition={{ delay: 0.2, duration: 0.5 }}
             className="text-5xl md:text-7xl font-bold text-white mb-8 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-purple-600"
           >
-            ALTAF HUSSAIN
+            ALTAV HUSAYN 
           </motion.h1>
           
           <div className="relative">
